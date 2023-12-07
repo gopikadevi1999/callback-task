@@ -19,7 +19,7 @@ setTimeout(() => {
                                     setTimeout(() => {
                                         document.getElementById("counting").innerText = "1";
                                         setTimeout(() => {
-                                            document.getElementById("counting").innerText = "Happy Independence Day";
+                                            document.getElementById("counting").innerText = "Happy Independence Day ";
                                         }, 1000);
                                     }, 1000);
                                 }, 1000);
